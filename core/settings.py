@@ -90,9 +90,9 @@ else:
             'default': {
                 'ENGINE': 'django.db.backends.mysql',
                 'NAME': 'bqn5txafw2howterc11x',
-                'USER': 'unbo2lwwd7qyxixp',
-                'PASSWORD': 'EkUuzbZiGt3e8KVyacuS',
-                'HOST': 'bqn5txafw2howterc11x-mysql.services.clever-cloud.com',
+                'USER': 'upcfu5rwiibs6okx',
+                'PASSWORD': 'digCYz1O9w43kGJ9uXIM',
+                'HOST': 'bh5ikxhqdlqis9tcli8p-mysql.services.clever-cloud.com',
                 'PORT': 3306,
             }
     }
